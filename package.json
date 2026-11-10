@@ -1,0 +1,20 @@
+{
+  "name": "thapas-cafe-website",
+  "version": "1.0.0",
+  "description": "Official website for Thapas Cafe – Premium Cafe & Restaurant in Mundra, Gujarat",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "thapas-cafe",
+    "cafe-mundra",
+    "restaurant-mundra",
+    "gujarat-cafe",
+    "coffee-shop"
+  ],
+  "author": "Thapas Cafe",
+  "license": "ISC"
+}

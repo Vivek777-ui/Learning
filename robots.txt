@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Canonical domain sitemap placeholder (Update with final live domain upon deployment)
+Sitemap: https://www.thapascafe.com/sitemap.xml

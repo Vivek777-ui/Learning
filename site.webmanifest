@@ -1,0 +1,16 @@
+{
+  "name": "Thapas Cafe – Premium Cafe & Restaurant",
+  "short_name": "Thapas Cafe",
+  "description": "Premium cafe and restaurant in Mundra, Gujarat. Enjoy freshly brewed coffees, appetizing snacks, fast food, and delicious dining.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FCFAF6",
+  "theme_color": "#35251F",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

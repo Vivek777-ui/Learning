@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="16" fill="#35251F"/>
+  <circle cx="32" cy="32" r="26" fill="none" stroke="#BD7658" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <!-- Elegant Coffee Cup / Monogram Motif -->
+  <path d="M22 26 C22 36, 42 36, 42 26 L22 26 Z" fill="#F7F1E7"/>
+  <path d="M42 28 C46 28, 48 30, 48 32 C48 34, 46 36, 42 36" fill="none" stroke="#F7F1E7" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M20 39 L44 39" stroke="#BD7658" stroke-width="2" stroke-linecap="round"/>
+  <!-- Subtle Steam Lines -->
+  <path d="M27 21 C26 18, 28 16, 27 14" fill="none" stroke="#BD7658" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M32 20 C31 17, 33 15, 32 12" fill="none" stroke="#BD7658" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M37 21 C36 18, 38 16, 37 14" fill="none" stroke="#BD7658" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Base letter T in serif style at bottom -->
+  <text x="32" y="52" font-family="'Playfair Display', Georgia, serif" font-size="11" font-weight="700" fill="#F7F1E7" text-anchor="middle" letter-spacing="1">TC</text>
+</svg>
